@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  color: #000000;
+  background-color: #FFFFFF;
+
+  font-family: Helvetica, Arial, Tahoma, sans-serif;
+  font-size: 14px;
+}
+
+.layout {
+  margin: 0 auto;
+  padding: 24px;
+  max-width: 500px;
+}
+
+
+.click-wave {
+  display: block;
+  position: absolute;
+  background: rgba(234, 234, 234, 0.6);
+  border-radius: 100%;
+  transform:scale(0);
+}
+
+.animate {
+  animation:ripple 0.65s linear;
+}
+
+@-webkit-keyframes ripple {
+    100% {opacity: 0; -webkit-transform: scale(2.5);}
+}
+@-moz-keyframes ripple {
+    100% {opacity: 0; -moz-transform: scale(2.5);}
+}
+@keyframes ripple {
+    100% {opacity: 0; transform: scale(2.5);}
+}

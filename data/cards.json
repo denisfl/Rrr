@@ -1,0 +1,63 @@
+[
+  {
+    "verbForm1": "abide",
+    "verbForm2": "abode / abided",
+    "verbForm3": "abode / abided",
+    "verbTranscription": "[əˈbaɪd]",
+    "verbTranslate": "выносить, терпеть"
+  },
+  {
+    "verbForm1": "alight",
+    "verbForm2": "alighted, alit",
+    "verbForm3": "alighted, alit",
+    "verbTranscription": "[əˈlaɪt]",
+    "verbTranslate": "сходить, садиться, приземляться"
+  },
+  {
+    "verbForm1": "arise",
+    "verbForm2": "arose",
+    "verbForm3": "arisen",
+    "verbTranscription": "",
+    "verbTranslate": "возникать, появляться, подниматься"
+  },
+  {
+    "verbForm1": "awake",
+    "verbForm2": "awoke, awaked",
+    "verbForm3": "awoken, awaked",
+    "verbTranscription": "",
+    "verbTranslate": "будить, просыпаться"
+  },
+  {
+    "verbForm1": "be",
+    "verbForm2": "was, were",
+    "verbForm3": "been",
+    "verbTranscription": "",
+    "verbTranslate": "быть"
+  },
+
+  {"verbForm1": "bear", "verbForm2": "bore", "verbForm3": "borne, born", "verbTranslate": "рождать, носить, выносить"},
+  {"verbForm1": "beat", "verbForm2": "beat", "verbForm3": "beaten, beat", "verbTranslate": "бить"},
+  {"verbForm1": "become", "verbForm2": "became", "verbForm3": "become", "verbTranslate": "становиться"},
+  {"verbForm1": "beget", "verbForm2": "begot", "verbForm3": "begotten", "verbTranslate": "порождать, зачинать"},
+  {"verbForm1": "begin", "verbForm2": "began", "verbForm3": "begun", "verbTranslate": "начинать"},
+  {"verbForm1": "bend", "verbForm2": "bent", "verbForm3": "bent", "verbTranslate": "гнуть, сгибать"},
+  {"verbForm1": "bereave", "verbForm2": "bereaved, bereft", "verbForm3": "bereaved, bereft", "verbTranslate": "лишать, отнимать"},
+  {"verbForm1": "beseech", "verbForm2": "besought, beseeched", "verbForm3": "besought, beseeched", "verbTranslate": "просить, молить"},
+  {"verbForm1": "bet", "verbForm2": "bet, betted", "verbForm3": "bet, betted", "verbTranslate": "держать пари"},
+  {"verbForm1": "bid", "verbForm2": "bade, bid", "verbForm3": "bidden, bid, bade", "verbTranslate": "просить, приказывать"},
+  {"verbForm1": "bide", "verbForm2": "bade, bided", "verbForm3": "bided", "verbTranslate": "выжидать"},
+  {"verbForm1": "bind", "verbForm2": "bound", "verbForm3": "bound", "verbTranslate": "связывать"},
+  {"verbForm1": "bite", "verbForm2": "bit", "verbForm3": "bitten", "verbTranslate": "кусать"},
+  {"verbForm1": "bleed", "verbForm2": "bled", "verbForm3": "bled", "verbTranslate": "истекать кровью, кровоточить"},
+  {"verbForm1": "bless", "verbForm2": "blessed, blest", "verbForm3": "blessed, blest", "verbTranslate": "благословлять"},
+  {"verbForm1": "blow", "verbForm2": "blew", "verbForm3": "blown", "verbTranslate": "дуть"},
+  {"verbForm1": "break", "verbForm2": "broke", "verbForm3": "broken", "verbTranslate": "ломать"},
+  {"verbForm1": "breed", "verbForm2": "bred", "verbForm3": "bred", "verbTranslate": "разводить, выводить"},
+  {"verbForm1": "bring", "verbForm2": "brought", "verbForm3": "brought", "verbTranslate": "приносить"},
+  {"verbForm1": "broadcast", "verbForm2": "broadcast, broadcasted", "verbForm3": "broadcast, broadcasted", "verbTranslate": "вещать, распространять"},
+  {"verbForm1": "build", "verbForm2": "built", "verbForm3": "built", "verbTranslate": "строить"},
+  {"verbForm1": "burn", "verbForm2": "burnt, burned", "verbForm3": "burnt, burned", "verbTranslate": "гореть, жечь"},
+  {"verbForm1": "burst", "verbForm2": "burst", "verbForm3": "burst", "verbTranslate": "разрываться"},
+  {"verbForm1": "bust", "verbForm2": "bust, busted", "verbForm3": "bust, busted", "verbTranslate": "обанкротиться"},
+  {"verbForm1": "buy", "verbForm2": "bought", "verbForm3": "bought", "verbTranslate": "покупать"}
+]

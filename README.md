@@ -1,10 +1,5 @@
+Cards with irregular verbs
 
-Instruction
-============
-
-```
-brew install node
-```
 
 ### Install npm dependencies
 

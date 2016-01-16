@@ -11,16 +11,10 @@ module.exports = {
   context: __dirname + '/src',
   entry: {
     app: [
-      './assets/javascripts/app/app.js',
+      './assets/javascripts/app.js',
       './components/list/script.js',
       './components/card/script.js',
-      './states/script.js',
     ],
-    vendor: [
-      './assets/javascripts/vendor/vendor-1',
-      './assets/javascripts/vendor/vendor-2'
-    ],
-    // style: './assets/stylesheets/style'
   },
   output: {
     path: __dirname + '/build/assets',
